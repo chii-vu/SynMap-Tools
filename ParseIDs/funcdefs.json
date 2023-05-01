@@ -1,0 +1,37 @@
+{
+  "org": "srlab",
+  "name": "ParseIDs",
+  "internal": "parse_ids",
+  "package": "CoGe",
+  "module": "SynMap",
+  "params": [
+    {
+      "name": "query",
+      "type": "file",
+      "desc": "Query genome"
+    },
+    {
+      "name": "subject",
+      "type": "file",
+      "desc": "Subject genome"
+    }
+  ],
+  "example": "",
+  "desc": "Parse IDs of query and subject genome to be compared",
+  "group": "SynMap",
+  "returns": [
+    {
+      "name": "qID",
+      "type": "str",
+      "desc": "ID of query genome"
+    },
+    {
+      "name": "sID",
+      "type": "str",
+      "desc": "ID of subject genome"
+    }
+  ],
+  "access": 0,
+  "sharedusers": [],
+  "href": ""
+}
