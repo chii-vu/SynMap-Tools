@@ -1,4 +1,5 @@
 # SynMap-Tools
+![Vu_VizSciFlow_Poster](https://github.com/chii-vu/SynMap-Tools/assets/115325256/b77eb276-7fa2-496c-b454-b0204167508a)
 
 SynMap is a tool by [CoGe](https://genomevolution.org/coge/) that generates synteny maps between two genomes to identify syntenic regions. This repository contains the tools used in the SynMap pipeline, modified for integration into [VizSciFlow](https://vizsciflow.usask.ca/).
 
@@ -6,4 +7,3 @@ SynMap is a tool by [CoGe](https://genomevolution.org/coge/) that generates synt
 
 ## Video Presentation
 https://user-images.githubusercontent.com/115325256/226138510-1652abbb-4376-4a2f-9390-1264088e9b24.mp4
-
